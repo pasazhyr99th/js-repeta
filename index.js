@@ -15,3 +15,5 @@ if (season === 'winter') {
 } else {
   console.log('shooo blya?');
 }
+
+// const shouldRenew = confirm('Misha krasava!');
